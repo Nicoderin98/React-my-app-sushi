@@ -16,6 +16,8 @@ class App extends Component {
       {id:2,nome:"Dynamite",prezzo:2.49,immagine:dynamite,quantità:0},
       {id:3,nome:"Philadelphia",prezzo:0.99,immagine:philadelphia,quantità:0},
       {id:4,nome:"Rainbow",prezzo:2.99,immagine:rainbow,quantità:0},
+      {id:6,nome:"Philadelphia",prezzo:0.99,immagine:philadelphia,quantità:0},
+      {id:7,nome:"Rainbow",prezzo:2.99,immagine:rainbow,quantità:0},
       {id:5,nome:"Shrimp",prezzo:1.49,immagine:shrimp,quantità:0}
     ]
   }
